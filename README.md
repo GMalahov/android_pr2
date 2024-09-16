@@ -1,16 +1,4 @@
-# practice_1
+# ПКС практика_2
+ Малахов Гриогорий ЭФБО-05-22
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* ![image_1](https://github.com/user-attachments/assets/9b75b6ef-6ff9-4ccb-8a67-d04732449abe)
